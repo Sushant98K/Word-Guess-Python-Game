@@ -51,7 +51,3 @@ def print_hangman(stage):
     print(hangman_descriptions[stage])
 
 
-
-def display_man(wrong_guesses):
-    pass
-
